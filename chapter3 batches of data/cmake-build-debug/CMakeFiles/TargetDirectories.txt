@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/chapter3 batches of data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Q/CLionProjects/chapter3 batches of data/cmake-build-debug/CMakeFiles/chapter3_batches_of_data.dir
+C:/Users/Q/CLionProjects/chapter3 batches of data/cmake-build-debug/CMakeFiles/edit_cache.dir

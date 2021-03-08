@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/7-3/xref.cpp
+iostream
+-
+algorithm
+-
+xref.h
+C:/Users/Q/CLionProjects/7-3/xref.h
+
+C:/Users/Q/CLionProjects/7-3/xref.h
+vector
+-
+map
+-
+string
+-
+

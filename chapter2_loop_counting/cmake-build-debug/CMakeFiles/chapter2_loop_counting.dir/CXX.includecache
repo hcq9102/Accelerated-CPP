@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/chapter2_loop_counting/main.cpp
+iostream
+-
+string
+-
+iostream
+-
+string
+-
+iostream
+-
+string
+-
+iostream
+-
+string
+-
+iostream
+-
+iostream
+-
+iostream
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/5-10/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+palindrome.h
+C:/Users/Q/CLionProjects/5-10/palindrome.h
+
+C:/Users/Q/CLionProjects/5-10/palindrome.h
+string
+-
+

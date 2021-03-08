@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/6-2_findURL/find_url.h
+vector
+-
+string
+-
+iterator
+-
+
+C:/Users/Q/CLionProjects/6-2_findURL/main.cpp
+iostream
+-
+find_url.h
+C:/Users/Q/CLionProjects/6-2_findURL/find_url.h
+fstream
+-
+

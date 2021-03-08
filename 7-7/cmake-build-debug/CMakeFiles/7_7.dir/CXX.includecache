@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/7-7/main.cpp
+iostream
+-
+xref.h
+C:/Users/Q/CLionProjects/7-7/xref.h
+split.h
+C:/Users/Q/CLionProjects/7-7/split.h
+
+C:/Users/Q/CLionProjects/7-7/split.cpp
+cctype
+-
+algorithm
+-
+split.h
+C:/Users/Q/CLionProjects/7-7/split.h
+
+C:/Users/Q/CLionProjects/7-7/split.h
+vector
+-
+string
+-
+
+C:/Users/Q/CLionProjects/7-7/xref.cpp
+iostream
+-
+algorithm
+-
+xref.h
+C:/Users/Q/CLionProjects/7-7/xref.h
+
+C:/Users/Q/CLionProjects/7-7/xref.h
+vector
+-
+map
+-
+string
+-
+

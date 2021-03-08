@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/10-4/String_list.cpp
+String_list.h
+C:/Users/Q/CLionProjects/10-4/String_list.h
+node.h
+C:/Users/Q/CLionProjects/10-4/node.h
+string
+-
+iostream
+-
+
+C:/Users/Q/CLionProjects/10-4/String_list.h
+string
+-
+list
+-
+node.h
+C:/Users/Q/CLionProjects/10-4/node.h
+
+C:/Users/Q/CLionProjects/10-4/main.cpp
+iostream
+-
+String_list.h
+C:/Users/Q/CLionProjects/10-4/String_list.h
+
+C:/Users/Q/CLionProjects/10-4/node.cpp
+node.h
+C:/Users/Q/CLionProjects/10-4/node.h
+
+C:/Users/Q/CLionProjects/10-4/node.h
+string
+-
+

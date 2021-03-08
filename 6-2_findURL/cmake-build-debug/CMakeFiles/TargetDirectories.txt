@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/6-2_findURL/cmake-build-debug/CMakeFiles/6_2_findURL.dir
+C:/Users/Q/CLionProjects/6-2_findURL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Q/CLionProjects/6-2_findURL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
