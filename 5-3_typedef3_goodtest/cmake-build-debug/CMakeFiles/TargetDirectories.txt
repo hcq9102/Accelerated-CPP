@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/5-3_typedef3_goodtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Q/CLionProjects/5-3_typedef3_goodtest/cmake-build-debug/CMakeFiles/5_3_typedef3_goodtest.dir
+C:/Users/Q/CLionProjects/5-3_typedef3_goodtest/cmake-build-debug/CMakeFiles/edit_cache.dir

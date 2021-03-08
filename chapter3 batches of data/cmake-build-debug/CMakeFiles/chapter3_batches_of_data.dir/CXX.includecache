@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/chapter3 batches of data/main.cpp
+iomanip
+-
+ios
+-
+iostream
+-
+string
+-
+iomanip
+-
+iostream
+-
+ios
+-
+string
+-
+vector
+-
+iostream
+-
+string
+-
+algorithm
+-
+

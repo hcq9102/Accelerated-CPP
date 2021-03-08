@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/chapter4 organizing programs and data/cmake-build-debug/CMakeFiles/chapter4_organizing_programs_and_data.dir
+C:/Users/Q/CLionProjects/chapter4 organizing programs and data/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Q/CLionProjects/chapter4 organizing programs and data/cmake-build-debug/CMakeFiles/rebuild_cache.dir

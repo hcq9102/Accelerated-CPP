@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/5-3_typedef/main.cpp
+iostream
+-
+vector
+-
+list
+-
+string
+-
+student_info.h
+C:/Users/Q/CLionProjects/5-3_typedef/student_info.h
+typedef_student_info.h
+C:/Users/Q/CLionProjects/5-3_typedef/typedef_student_info.h
+
+C:/Users/Q/CLionProjects/5-3_typedef/student_info.h
+iostream
+-
+vector
+-
+string
+-
+
+C:/Users/Q/CLionProjects/5-3_typedef/typedef_student_info.h
+vector
+-
+list
+-
+string
+-
+student_info.h
+C:/Users/Q/CLionProjects/5-3_typedef/student_info.h
+

@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/6-0_split/cmake-build-debug/CMakeFiles/6_0_split.dir
+C:/Users/Q/CLionProjects/6-0_split/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Q/CLionProjects/6-0_split/cmake-build-debug/CMakeFiles/rebuild_cache.dir

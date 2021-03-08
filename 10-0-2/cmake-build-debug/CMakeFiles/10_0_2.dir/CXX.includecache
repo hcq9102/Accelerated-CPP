@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/10-0-2/letter_grade.cpp
+letter_grade.h
+C:/Users/Q/CLionProjects/10-0-2/letter_grade.h
+string
+-
+cstddef
+-
+
+C:/Users/Q/CLionProjects/10-0-2/letter_grade.h
+cstddef
+-
+string
+-
+
+C:/Users/Q/CLionProjects/10-0-2/main.cpp
+iostream
+-
+letter_grade.h
+C:/Users/Q/CLionProjects/10-0-2/letter_grade.h
+string
+-
+

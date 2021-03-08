@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/5-8/main.cpp
+str_join.h
+C:/Users/Q/CLionProjects/5-8/str_join.h
+iostream
+-
+
+C:/Users/Q/CLionProjects/5-8/str_join.cpp
+str_join.h
+C:/Users/Q/CLionProjects/5-8/str_join.h
+iostream
+-
+
+C:/Users/Q/CLionProjects/5-8/str_join.h
+string
+-
+vector
+-
+

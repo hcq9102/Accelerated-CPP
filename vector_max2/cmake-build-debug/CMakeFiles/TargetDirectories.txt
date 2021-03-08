@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/vector_max2/cmake-build-debug/CMakeFiles/vector_max2.dir
+C:/Users/Q/CLionProjects/vector_max2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Q/CLionProjects/vector_max2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Q/CLionProjects/7-6/gen_sentence.h
+vector
+-
+string
+-
+grammar.h
+C:/Users/Q/CLionProjects/7-6/grammar.h
+
+C:/Users/Q/CLionProjects/7-6/grammar.h
+iostream
+-
+vector
+-
+string
+-
+map
+-
+
+C:/Users/Q/CLionProjects/7-6/main.cpp
+iostream
+-
+vector
+-
+string
+-
+gen_sentence.h
+C:/Users/Q/CLionProjects/7-6/gen_sentence.h
+grammar.h
+C:/Users/Q/CLionProjects/7-6/grammar.h
+nrand.h
+C:/Users/Q/CLionProjects/7-6/nrand.h
+ctime
+-
+cstdlib
+-
+
+C:/Users/Q/CLionProjects/7-6/nrand.h
+

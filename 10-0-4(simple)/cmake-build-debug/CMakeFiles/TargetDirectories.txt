@@ -1,0 +1,3 @@
+C:/Users/Q/CLionProjects/10-0-4(simple)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Q/CLionProjects/10-0-4(simple)/cmake-build-debug/CMakeFiles/10_0_4_simple_.dir
+C:/Users/Q/CLionProjects/10-0-4(simple)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
