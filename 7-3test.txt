@@ -1,4 +1,0 @@
-cat mice lion
-dog dog
-cat lion
-duck
