@@ -1,4 +1,0 @@
-apple orange banana
-orange orange
-apple banana
-mango
