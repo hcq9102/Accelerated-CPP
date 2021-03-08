@@ -1,0 +1,5 @@
+abcba
+aabaa ccbcc
+this is a very goog , for palindrome test
+there are many wrong words in this txt.
+did done do , aha I can't list any more.
